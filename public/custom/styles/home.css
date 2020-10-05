@@ -1,0 +1,95 @@
+
+/* .profile{
+    height: 300px;
+    width: 100%;
+    
+}
+.pic_upload{
+    float:right;
+    margin-right: 80px;
+} */
+.data-entry{
+    width: 700px;
+    margin: 0 auto;
+    height: 970px;
+   
+}
+input[type="date"]{
+    border:none;
+}
+input[type="date"]:focus {
+    outline: none;
+   
+}
+
+
+
+table{
+    /* width: 100%; */
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+th{
+    padding: 15px;
+  
+}
+
+ td{
+    border: 1px solid grey;
+    background: #fff;
+  }
+
+ th, td {
+    text-align: left;
+    position:relative;
+  }
+
+  input[type="text"]{
+      outline:none;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: none;  
+      
+      
+  }
+  input[type=radio] {
+   display:block;
+   float:left;
+   padding: 0;
+  
+}
+
+ .shade{
+     background: lightgrey;
+   
+ }
+.table-2{
+    margin-top: 100px;
+}
+
+.submit{
+    margin-top: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    outline: none;
+    border:none;
+    background: #0e0c28;
+    color: #fff;
+    
+}
+.region{
+    position: absolute;
+    top: 0;
+    line-height: 92px;
+
+}
+.submit:hover{
+    cursor: pointer;
+}
+
+
+
+ 
+
+
